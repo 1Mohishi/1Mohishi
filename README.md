@@ -17,7 +17,7 @@ DS & AI student · Astrophotographer · Easily distracted by interesting data
 ## Featured
 
 **[M42-Orion-Nebula-Analysis](https://github.com/1Mohishi/M42-Orion-Nebula-Analysis)**  
-Astrophotography data analysis — from telescope to Python.
+Astrophotography data analysis from telescope to Python.
 
 ---
 
