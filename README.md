@@ -28,5 +28,6 @@ DS & AI student · Astrophotographer · Easily distracted by interesting data
 **[M42-Orion-Nebula-Analysis](https://github.com/1Mohishi/M42-Orion-Nebula-Analysis)**  
 Astrophotography data analysis from telescope to Python.
 
-
+**[FITS-files-analysis-python](https://github.com/1Mohishi/FITS-files-analysis-python)**
+A collection of Jupyter notebooks for analyzing astronomical FITS images nebula, moon, and solar analysis using Python.
 
