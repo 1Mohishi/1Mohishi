@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Data+Scientist;Astrophotographer;Curious+about+everything)](https://git.io/typing-svg)
 
-# Hi, I'm Mohishi 👋
+# Hi, I'm Jeed 👋
 
 DS & AI student · Astrophotographer · Easily distracted by interesting data
 
