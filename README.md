@@ -20,7 +20,6 @@ DS & AI student · Astrophotographer · Easily distracted by interesting data
 -  Astrophotography
 -  Theoretical physics & relativity
 -  Art
--  Theories that question everything
 
 ---
 ## Featured
